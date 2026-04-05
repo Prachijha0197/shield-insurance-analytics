@@ -1,6 +1,8 @@
 # shield-insurance-analytics
 This project gave me the opportunity to dive deep into business intelligence storytelling using Power BI, analyzing customer demographics, revenue trends, and sales channels.
 
+## Live Dashboard: [View Here](https://app.powerbi.com/view?r=eyJrIjoiYjFiMDE3YTItYWY4Zi00ZDA3LTkzNzUtZWU2NWY4MDZmYzMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Project Overview
 As part of the Codebasics Power BI Internship Program, I developed a fully interactive and insight-driven dashboard for Shield Insurance, a growing company with operations across major Indian cities – Mumbai, Delhi NCR, Hyderabad, Chennai, and Indore.
 The project involved analyzing insurance data, identifying growth opportunities, and building a user-friendly dashboard to enable data-driven decision-making.
