@@ -66,9 +66,13 @@ Storytelling: Linked technical outputs to KPIs and strategic actions for decisio
 ## Strategic Recommendations
 
 ➢  Leverage March Success: Analyze the factors behind March 2023’s peak performance and replicate them in future campaigns. 
+
 ➢  Expand City Strategies: Apply the successful approaches from Delhi NCR to boost growth in other cities. 
+
 ➢  Target Age Group 31–40: Design focused marketing initiatives and tailored policy options for the most active customer segment.
+
 ➢  Strengthen Direct Sales: Adapt strategies from the growing mobile app and website channels to enhance offline direct sales. 
+
 ➢  Enhance Popular Policy (POL4321HEL): Introduce upgrades or variations of the top performing policy to attract wider age groups.
 
 ## Conclusion
